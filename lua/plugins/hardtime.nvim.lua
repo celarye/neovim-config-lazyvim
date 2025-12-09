@@ -1,6 +1,6 @@
 return {
   "m4xshen/hardtime.nvim",
-  event = "VeryLazy",
+  event = "LazyFile",
   dependencies = { "MunifTanjim/nui.nvim" },
   opts = {},
 }
