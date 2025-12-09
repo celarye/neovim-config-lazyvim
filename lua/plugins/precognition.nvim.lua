@@ -1,6 +1,6 @@
 return {
   "tris203/precognition.nvim",
-  event = "VeryLazy",
+  event = "LazyFile",
   opts = {
     startVisible = true,
     showBlankVirtLine = false,
