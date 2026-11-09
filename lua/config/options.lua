@@ -5,8 +5,5 @@
 -- Disable all animations
 vim.g.snacks_animate = false
 
--- Vim options
-local opt = vim.opt
-
 -- Disable mouse controls
-opt.mouse = ""
+vim.opt.mouse = ""
